@@ -12,6 +12,7 @@
 }
 
 @font-face {
+    font-display: swap;
     font-family: 'open_bold';
     src: url('../fonts/opensans-bold.eot');
     src: url('../fonts/opensans-bold.eot?#iefix') format('embedded-opentype'),
@@ -24,6 +25,7 @@
 }
 
 @font-face {
+    font-display: swap;
     font-family: 'open_semibold';
     src: url('../fonts/opensans-semibold.eot');
     src: url('../fonts/opensans-semibold.eot?#iefix') format('embedded-opentype'),
